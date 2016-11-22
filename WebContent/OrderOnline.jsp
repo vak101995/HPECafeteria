@@ -9,7 +9,7 @@
 <body>
 <form action="OrderEntry" method="post">
 Employee ID/Number:<input type='text' name='empid'/><br/><br/>
-Employee Name/First Name:<input type='text' name='ename'/><br/><br/>
+Employee FName/First Name:<input type='text' name='ename'/><br/><br/>
 Food:<input type='text' name='food'/><br/><br/>
 Quantity:<input type='text' name='quantity'/><br/><br/>
 <input type='submit' value='Enter'/>
